@@ -9,13 +9,12 @@ Além disso, o projeto inclui validação de entrada para garantir que o usuári
 ---
 
 ## Índice
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Conceitos Abordados](#-conceitos-abordados)
-- [Como Usar o Programa](#-como-usar-o-programa)
-- [Exemplo de Saída](#️-exemplo-de-saída)
-- [Validação de Dados de Entrada](#-validação-de-dados-de-entrada)
-
----
+1. [Sobre o Projeto](#-sobre-o-projeto)
+2. [Conceitos Abordados](#-conceitos-abordados)
+3. [Como Usar o Programa](#-como-usar-o-programa)
+4. [Exemplo de Saída](#️-exemplo-de-saída)
+5. [Validação de Dados de Entrada](#-validação-de-dados-de-entrada)
+6. [Estrutura do Repositório](#-estrutura-do-repositório)
 
 ## 📚 Sobre o Projeto
 
@@ -84,4 +83,11 @@ try:
     number = int(input("Digite um número:\n"))
 except ValueError:
     print("Por favor, digite um número inteiro.")
+```
+
+## 📁 Estrutura do Repositório
+```
+automacao_python/capitulo_3
+    ├── collatz.py       # Código principal da sequência de Collatz     
+    └── README.md        # Este arquivo
 ```
