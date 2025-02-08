@@ -6,8 +6,8 @@ Este repositório contém os exercícios e exemplos práticos baseados no livro 
 
 ## 📌 Índice
 
-1. [Sobre o livro](#sobre-o-livro)
-2. [Estrutura do repositório](#estrutura-do-repositório)
+1. [Sobre o livro](#-sobre-o-livro)
+2. [Estrutura do repositório](#-estrutura-do-repositório)
 
 ## 📚 Sobre o Livro
 
